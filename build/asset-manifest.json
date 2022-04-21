@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/frontend/static/js/main.fbcc5328.chunk.js",
+    "main.js.map": "/frontend/static/js/main.fbcc5328.chunk.js.map",
+    "runtime-main.js": "/frontend/static/js/runtime-main.12e52466.js",
+    "runtime-main.js.map": "/frontend/static/js/runtime-main.12e52466.js.map",
+    "static/js/2.a8c99dfd.chunk.js": "/frontend/static/js/2.a8c99dfd.chunk.js",
+    "static/js/2.a8c99dfd.chunk.js.map": "/frontend/static/js/2.a8c99dfd.chunk.js.map",
+    "index.html": "/frontend/index.html",
+    "precache-manifest.06141d20ef0fb4003259b85707437548.js": "/frontend/precache-manifest.06141d20ef0fb4003259b85707437548.js",
+    "service-worker.js": "/frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a8c99dfd.chunk.js.LICENSE.txt": "/frontend/static/js/2.a8c99dfd.chunk.js.LICENSE.txt",
+    "static/media/error.svg": "/frontend/static/media/error.f8030c78.svg",
+    "static/media/fb.svg": "/frontend/static/media/fb.e04113c3.svg",
+    "static/media/github.svg": "/frontend/static/media/github.7b00a4d7.svg",
+    "static/media/gmail.svg": "/frontend/static/media/gmail.deda33ae.svg",
+    "static/media/heart-beats.svg": "/frontend/static/media/heart-beats.e62f159a.svg",
+    "static/media/images.png": "/frontend/static/media/images.c44d945d.png",
+    "static/media/linkedin.svg": "/frontend/static/media/linkedin.ab46037f.svg",
+    "static/media/myths1.png": "/frontend/static/media/myths1.e86ab2d9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e52466.js",
+    "static/js/2.a8c99dfd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fbcc5328.chunk.js"
+  ]
+}
