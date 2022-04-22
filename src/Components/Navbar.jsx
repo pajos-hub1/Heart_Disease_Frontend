@@ -25,7 +25,7 @@ function NavBar() {
             <Nav.Link href="/Home" style={{ color: 'white', textDecoration: 'none' }}>  Home</Nav.Link>
             <Nav.Link href="/Symptoms" style={{ color: 'white', textDecoration: 'none' }}>Symptoms</Nav.Link>
             <Nav.Link href="/Treatment" style={{ color: 'white', textDecoration: 'none' }}>Treatment</Nav.Link>
-            <Nav.Link href="https://heartpred.herokuapp.com/predict/" style={{ color: 'white', textDecoration: 'none' }}>Predict</Nav.Link>
+            <Nav.Link href="https://heartpredictss.herokuapp.com/predict/" style={{ color: 'white', textDecoration: 'none' }}>Predict</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link href="https://github.com" target="_blank">
